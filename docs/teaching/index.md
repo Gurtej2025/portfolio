@@ -5,11 +5,11 @@ I started teaching elementary school kids programming concepts in 2021. I realiz
 Below are my projects in order of difficulty level
 
 # Beginner
-1.
+1. Maze Generation Algorithm (all difficulty levels)
 2.
 3.
 4.
-5.
+5. 
 
 # Intermediate
 6.

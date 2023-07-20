@@ -18,7 +18,7 @@ Game design principles: gameplay mechanics, level design, user interface design,
 ## Accomplishments
 
 * [Teaching programming to elementary school kids](./teaching/index.md)
-* Youtube channel for showcasing games created by me
+* [Youtube channel for showcasing games created by me](./youtube/index.md)
 
 ## Projects
 
